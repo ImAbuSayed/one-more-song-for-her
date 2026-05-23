@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/one-more-song-for-her/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for One More Song for Her](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-more-song-for-her/) |
+| **Get License** | [Official Music Licensing for One More Song for Her](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-more-song-for-her/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I want you closer than the midnight air
+> I want my fingers tangled in your hair
+> There's a fire burning in this quiet room
+> I just want to lose myself in you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
