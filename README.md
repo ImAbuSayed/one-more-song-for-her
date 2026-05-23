@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/one-more-song-for-her/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for One More Song for Her](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-more-song-for-her/) |
+| **Get License** | [License this song: One More Song for Her](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/one-more-song-for-her/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c0c117b5a84e5f0936abdf945487aef30be59605ddec80a4343cb93e9d835348` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
